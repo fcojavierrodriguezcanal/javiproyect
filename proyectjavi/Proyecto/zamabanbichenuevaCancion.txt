@@ -1,4 +1,0 @@
-Nombre: zamabanbiche
-id: 2
-ruta: badbunny
-artista: s
