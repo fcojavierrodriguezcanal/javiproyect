@@ -1,0 +1,4 @@
+Nombre: s
+id: 33
+ruta: a
+artista: s
